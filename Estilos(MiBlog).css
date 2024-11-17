@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Contenido{
+    position: relative;
+    align-content: center;
+    width: 490px;
+    height: 760px;
+    left: 600px;
+    top: 38px;
+}
+.Main{
+    position: relative;
+    width: 480px;
+    height: 340px;
+    background-color: rgb(237, 244, 248);
+    left: 4px;
+    top: 5px;
+    text-align: center;
+}
+#Titulo_Main{
+    line-height: 2.5;
+    text-align: center;
+}
+.Texto_Azul{
+    display: inline;
+    margin-left: 17px;
+    margin-right: 17px;
+    color: rgb(0, 167, 233);
+}
+.Secundario{
+    position: relative;
+    width: 470px;
+    height: 225px; 
+    background-color: white;
+    top: 10px;
+    left: 4px;
+    right: 25px;
+    border: 1px solid rgb(109, 109, 109);
+}
+
+.Cuadro1{
+    position: relative;
+    border: 1px solid rgb(185, 185, 185);
+    width: 290px;
+    height: 140px;
+    top: 20px;
+    left: 12px;
+    padding: 10px;
+    
+}
+.Cuadro2{
+    position: relative;
+    border: 1px solid rgb(185, 185, 185);
+    width: 150px;
+    height: 300px;
+    top: -120px;
+    right: -332px;
+    padding: 10px;
+}
+.Cuadro2 ul{
+    padding-left: 20px;
+    margin: 0;
+    list-style-position: inside;
+}
+.Cuadro3{
+    position: relative;
+    border: 1px solid rgb(185, 185, 185);
+    width: 290px;
+    height: 140px;
+    top: -260px;
+    left: 12px;
+    padding: 10px;
+    
+}
+.Cuadro4{
+    background-color: rgb(218, 218, 218);
+    position: relative;
+    width: 488px;
+    height: 78px;
+    top: -240px;
+    text-align: center;
+    align-content: center;
+}
+.Titulo_Cuadro2{
+    text-align: center;
+}
+a{
+    color: rgb(0, 167, 233);
+}
+a:hover{
+    color:rgb(0, 167, 233);
+}
+#Enlace_Simple{
+    color: blue;
+}
